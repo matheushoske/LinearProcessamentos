@@ -1,0 +1,108 @@
+30/06/2021 - 21:59:13= --------------------
+Processamento iniciado
+30/06/2021 - 21:59:13= Reprocessando a partir de 01/01/2021
+
+30/06/2021 - 21:59:15= Registro1266 não será atualizado por possuir apenas 1 registro no período específicado
+30/06/2021 - 21:59:20= Registro atualizado: valor calculado= -1,000, valor encontrado= 23,000
+ Atualizado 001estoque0121, produto= 69, cod= 17204
+30/06/2021 - 21:59:20= Registro atualizado: valor calculado= -2,000, valor encontrado= 22,000
+ Atualizado 001estoque0121, produto= 69, cod= 17205
+30/06/2021 - 21:59:20= Registro atualizado: valor calculado= -3,000, valor encontrado= 21,000
+ Atualizado 001estoque0121, produto= 69, cod= 17206
+30/06/2021 - 21:59:20= Registro atualizado: valor calculado= -4,000, valor encontrado= 20,000
+ Atualizado 001estoque0121, produto= 69, cod= 17207
+30/06/2021 - 21:59:20= Registro atualizado: valor calculado= -5,000, valor encontrado= 19,000
+ Atualizado 001estoque0121, produto= 69, cod= 17208
+30/06/2021 - 21:59:20= Registro atualizado: valor calculado= -6,000, valor encontrado= 18,000
+ Atualizado 001estoque0121, produto= 69, cod= 17209
+30/06/2021 - 21:59:20= Registro atualizado: valor calculado= -7,000, valor encontrado= 17,000
+ Atualizado 001estoque0121, produto= 69, cod= 19751
+30/06/2021 - 21:59:20= Registro atualizado: valor calculado= -11,000, valor encontrado= 13,000
+ Atualizado 001estoque0121, produto= 69, cod= 19752
+30/06/2021 - 21:59:20= Registro atualizado: valor calculado= -12,000, valor encontrado= 12,000
+ Atualizado 001estoque0121, produto= 69, cod= 23660
+30/06/2021 - 21:59:20= Registro atualizado: valor calculado= -13,000, valor encontrado= 11,000
+ Atualizado 001estoque0121, produto= 69, cod= 23661
+30/06/2021 - 21:59:20= Estoque atualizado do produto: 69 atualizado para -13,000
+30/06/2021 - 21:59:21= Registro8095 não será atualizado por possuir apenas 1 registro no período específicado
+30/06/2021 - 21:59:21= Registro8095 não será atualizado por possuir apenas 1 registro no período específicado
+30/06/2021 - 21:59:22= Registro atualizado: valor calculado= -1,000, valor encontrado= 6,000
+ Atualizado 001estoque0121, produto= 83, cod= 6299
+30/06/2021 - 21:59:22= Registro atualizado: valor calculado= -2,000, valor encontrado= 5,000
+ Atualizado 001estoque0121, produto= 83, cod= 18219
+30/06/2021 - 21:59:22= Registro atualizado: valor calculado= -3,000, valor encontrado= 4,000
+ Atualizado 001estoque0121, produto= 83, cod= 18220
+30/06/2021 - 21:59:22= Registro atualizado: valor calculado= -4,000, valor encontrado= 3,000
+ Atualizado 001estoque0121, produto= 83, cod= 23589
+30/06/2021 - 21:59:22= Registro atualizado: valor calculado= -5,000, valor encontrado= 2,000
+ Atualizado 001estoque0121, produto= 83, cod= 24369
+30/06/2021 - 21:59:22= Registro atualizado: valor calculado= -6,000, valor encontrado= 1,000
+ Atualizado 001estoque0121, produto= 83, cod= 33228
+30/06/2021 - 21:59:22= Estoque atualizado do produto: 83 atualizado para -6,000
+30/06/2021 - 21:59:28= Registro atualizado: valor calculado= -1,000, valor encontrado= 3,000
+ Atualizado 001estoque0121, produto= 117, cod= 5023
+30/06/2021 - 21:59:28= Registro atualizado: valor calculado= 0,000, valor encontrado= 4,000
+ Atualizado 001estoque0121, produto= 117, cod= 5024
+30/06/2021 - 21:59:28= Registro atualizado: valor calculado= -1,000, valor encontrado= 3,000
+ Atualizado 001estoque0121, produto= 117, cod= 36039
+30/06/2021 - 21:59:28= Estoque atualizado do produto: 117 atualizado para -1,000
+01/07/2021 - 08:31:38= --------------------
+Processamento iniciado
+01/07/2021 - 08:31:40= Reprocessando a partir de 01/01/2021
+
+01/07/2021 - 08:37:32= --------------------
+Processamento iniciado
+01/07/2021 - 08:37:32= Reprocessando a partir de 01/01/2021
+
+01/07/2021 - 08:37:32= Inserindo auditoria
+01/07/2021 - 08:37:32= Inserindo auditoria
+01/07/2021 - 08:37:33= Inserindo auditoria
+01/07/2021 - 08:37:34= Inserindo auditoria
+01/07/2021 - 08:37:34= Inserindo auditoria
+01/07/2021 - 08:37:35= Inserindo auditoria
+01/07/2021 - 08:37:37= Inserindo auditoria
+01/07/2021 - 08:37:37= Inserindo auditoria
+01/07/2021 - 08:37:38= Inserindo auditoria
+01/07/2021 - 08:37:39= Inserindo auditoria
+01/07/2021 - 08:37:39= Registro atualizado: valor calculado= -1,000, valor encontrado= 2,000
+ Atualizado 001estoque0121, produto= 321, cod= 6585
+01/07/2021 - 08:37:39= Registro atualizado: valor calculado= -2,000, valor encontrado= 1,000
+ Atualizado 001estoque0121, produto= 321, cod= 12873
+01/07/2021 - 08:37:39= Registro atualizado: valor calculado= -3,000, valor encontrado= 0,000
+ Atualizado 001estoque0121, produto= 321, cod= 12901
+01/07/2021 - 08:37:39= Estoque atualizado do produto: 321 atualizado para -3,000
+01/07/2021 - 08:37:39= Inserindo auditoria
+01/07/2021 - 08:37:39= Registro617 não será atualizado por possuir apenas 1 registro no período específicado
+01/07/2021 - 08:37:39= Registro617 não será atualizado por possuir apenas 1 registro no período específicado
+01/07/2021 - 08:37:39= Inserindo auditoria
+01/07/2021 - 08:37:40= Inserindo auditoria
+01/07/2021 - 08:37:40= Inserindo auditoria
+01/07/2021 - 08:37:40= Inserindo auditoria
+01/07/2021 - 08:37:40= Inserindo auditoria
+01/07/2021 - 08:37:41= Inserindo auditoria
+01/07/2021 - 08:37:41= Inserindo auditoria
+01/07/2021 - 08:37:41= Inserindo auditoria
+01/07/2021 - 08:37:42= Inserindo auditoria
+01/07/2021 - 08:37:42= Inserindo auditoria
+01/07/2021 - 08:37:42= Inserindo auditoria
+01/07/2021 - 08:37:42= Inserindo auditoria
+01/07/2021 - 08:37:43= Inserindo auditoria
+01/07/2021 - 08:37:43= Inserindo auditoria
+01/07/2021 - 08:37:43= Inserindo auditoria
+01/07/2021 - 08:37:44= Inserindo auditoria
+01/07/2021 - 08:37:44= Inserindo auditoria
+01/07/2021 - 08:37:44= Inserindo auditoria
+01/07/2021 - 08:37:44= Inserindo auditoria
+01/07/2021 - 08:37:45= Inserindo auditoria
+01/07/2021 - 08:37:45= Inserindo auditoria
+01/07/2021 - 08:37:45= Inserindo auditoria
+01/07/2021 - 08:37:45= Inserindo auditoria
+01/07/2021 - 08:37:45= Inserindo auditoria
+01/07/2021 - 08:37:46= Inserindo auditoria
+01/07/2021 - 08:37:46= Inserindo auditoria
+01/07/2021 - 08:37:46= Inserindo auditoria
+01/07/2021 - 08:37:46= Inserindo auditoria
+01/07/2021 - 08:37:46= Inserindo auditoria
+01/07/2021 - 08:37:47= Inserindo auditoria
+01/07/2021 - 08:37:48= Inserindo auditoria
+16/08/2021 - 15:46:37= Erro ao encontrar conexão com o banco de dados, verifique a chave [SETTINGS] no arquivo sglinx.ini e os serviços do MySQL :Unable to connect to any of the specified MySQL hosts.

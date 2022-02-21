@@ -1,0 +1,411 @@
+01/04/2021 - 22:11:58= --------------------
+Processamento iniciado
+01/04/2021 - 22:11:58= Reprocessando a partir de 01/03/2021
+
+01/04/2021 - 22:11:58= Registro atualizado: valor calculado= 231,000, valor encontrado= 213,000
+ Atualizado 001estoque0321, produto= 436, cod= 810
+01/04/2021 - 22:11:58= Registro atualizado: valor calculado= 189,000, valor encontrado= 191,000
+ Atualizado 001estoque0321, produto= 436, cod= 1559
+01/04/2021 - 22:11:58= Registro atualizado: valor calculado= 229,000, valor encontrado= 231,000
+ Atualizado 001estoque0321, produto= 436, cod= 2279
+01/04/2021 - 22:11:58= Registro atualizado: valor calculado= 228,000, valor encontrado= 230,000
+ Atualizado 001estoque0321, produto= 436, cod= 2283
+01/04/2021 - 22:11:58= Registro atualizado: valor calculado= 227,000, valor encontrado= 229,000
+ Atualizado 001estoque0321, produto= 436, cod= 2437
+01/04/2021 - 22:11:58= Registro atualizado: valor calculado= 226,000, valor encontrado= 228,000
+ Atualizado 001estoque0321, produto= 436, cod= 2470
+01/04/2021 - 22:11:58= Registro atualizado: valor calculado= 225,000, valor encontrado= 227,000
+ Atualizado 001estoque0321, produto= 436, cod= 2471
+01/04/2021 - 22:11:59= Registro atualizado: valor calculado= 255,000, valor encontrado= 257,000
+ Atualizado 001estoque0321, produto= 436, cod= 2615
+01/04/2021 - 22:11:59= Registro atualizado: valor calculado= 254,000, valor encontrado= 256,000
+ Atualizado 001estoque0321, produto= 436, cod= 3781
+01/04/2021 - 22:11:59= Registro atualizado: valor calculado= 253,000, valor encontrado= 255,000
+ Atualizado 001estoque0321, produto= 436, cod= 3782
+01/04/2021 - 22:11:59= Registro atualizado: valor calculado= 252,000, valor encontrado= 254,000
+ Atualizado 001estoque0321, produto= 436, cod= 4207
+01/04/2021 - 22:11:59= Registro atualizado: valor calculado= 251,000, valor encontrado= 253,000
+ Atualizado 001estoque0321, produto= 436, cod= 4208
+01/04/2021 - 22:11:59= Registro atualizado: valor calculado= 250,000, valor encontrado= 252,000
+ Atualizado 001estoque0321, produto= 436, cod= 5112
+01/04/2021 - 22:11:59= Registro atualizado: valor calculado= 249,000, valor encontrado= 251,000
+ Atualizado 001estoque0321, produto= 436, cod= 5390
+01/04/2021 - 22:11:59= Registro atualizado: valor calculado= 248,000, valor encontrado= 250,000
+ Atualizado 001estoque0321, produto= 436, cod= 5394
+01/04/2021 - 22:11:59= Registro atualizado: valor calculado= 247,000, valor encontrado= 249,000
+ Atualizado 001estoque0321, produto= 436, cod= 5397
+01/04/2021 - 22:11:59= Registro atualizado: valor calculado= 246,000, valor encontrado= 248,000
+ Atualizado 001estoque0321, produto= 436, cod= 5399
+01/04/2021 - 22:11:59= Registro atualizado: valor calculado= 245,000, valor encontrado= 247,000
+ Atualizado 001estoque0321, produto= 436, cod= 29293
+01/04/2021 - 22:11:59= Registro atualizado: valor calculado= 244,000, valor encontrado= 246,000
+ Atualizado 001estoque0321, produto= 436, cod= 29655
+01/04/2021 - 22:11:59= Registro atualizado: valor calculado= 243,000, valor encontrado= 245,000
+ Atualizado 001estoque0321, produto= 436, cod= 31499
+01/04/2021 - 22:11:59= Registro atualizado: valor calculado= 242,000, valor encontrado= 244,000
+ Atualizado 001estoque0321, produto= 436, cod= 31564
+01/04/2021 - 22:11:59= Registro atualizado: valor calculado= 241,000, valor encontrado= 243,000
+ Atualizado 001estoque0321, produto= 436, cod= 31629
+01/04/2021 - 22:11:59= Registro atualizado: valor calculado= 240,000, valor encontrado= 242,000
+ Atualizado 001estoque0321, produto= 436, cod= 31630
+01/04/2021 - 22:11:59= Registro atualizado: valor calculado= 239,000, valor encontrado= 241,000
+ Atualizado 001estoque0321, produto= 436, cod= 31774
+01/04/2021 - 22:11:59= Registro atualizado: valor calculado= 238,000, valor encontrado= 240,000
+ Atualizado 001estoque0321, produto= 436, cod= 31776
+01/04/2021 - 22:11:59= Registro atualizado: valor calculado= 237,000, valor encontrado= 239,000
+ Atualizado 001estoque0321, produto= 436, cod= 32138
+01/04/2021 - 22:11:59= Registro atualizado: valor calculado= 236,000, valor encontrado= 238,000
+ Atualizado 001estoque0321, produto= 436, cod= 32858
+01/04/2021 - 22:11:59= Registro atualizado: valor calculado= 235,000, valor encontrado= 237,000
+ Atualizado 001estoque0321, produto= 436, cod= 32859
+01/04/2021 - 22:11:59= Registro atualizado: valor calculado= 234,000, valor encontrado= 236,000
+ Atualizado 001estoque0321, produto= 436, cod= 34908
+01/04/2021 - 22:11:59= Registro atualizado: valor calculado= 233,000, valor encontrado= 235,000
+ Atualizado 001estoque0321, produto= 436, cod= 34910
+01/04/2021 - 22:11:59= Registro atualizado: valor calculado= 232,000, valor encontrado= 234,000
+ Atualizado 001estoque0321, produto= 436, cod= 35019
+01/04/2021 - 22:11:59= Registro atualizado: valor calculado= 332,000, valor encontrado= 334,000
+ Atualizado 001estoque0321, produto= 436, cod= 35357
+01/04/2021 - 22:11:59= Registro atualizado: valor calculado= 331,000, valor encontrado= 333,000
+ Atualizado 001estoque0321, produto= 436, cod= 36160
+01/04/2021 - 22:11:59= Registro atualizado: valor calculado= 330,000, valor encontrado= 332,000
+ Atualizado 001estoque0321, produto= 436, cod= 36247
+01/04/2021 - 22:11:59= Registro atualizado: valor calculado= 329,000, valor encontrado= 331,000
+ Atualizado 001estoque0321, produto= 436, cod= 36248
+01/04/2021 - 22:11:59= Registro atualizado: valor calculado= 328,000, valor encontrado= 330,000
+ Atualizado 001estoque0321, produto= 436, cod= 36380
+01/04/2021 - 22:12:00= Registro atualizado: valor calculado= 327,000, valor encontrado= 329,000
+ Atualizado 001estoque0321, produto= 436, cod= 36773
+01/04/2021 - 22:12:00= Registro atualizado: valor calculado= 326,000, valor encontrado= 328,000
+ Atualizado 001estoque0321, produto= 436, cod= 36775
+01/04/2021 - 22:12:00= Registro atualizado: valor calculado= 316,000, valor encontrado= 318,000
+ Atualizado 001estoque0321, produto= 436, cod= 38505
+01/04/2021 - 22:12:00= Registro atualizado: valor calculado= 315,000, valor encontrado= 317,000
+ Atualizado 001estoque0321, produto= 436, cod= 38844
+01/04/2021 - 22:12:00= Registro atualizado: valor calculado= 314,000, valor encontrado= 316,000
+ Atualizado 001estoque0321, produto= 436, cod= 38845
+01/04/2021 - 22:12:00= Registro atualizado: valor calculado= 313,000, valor encontrado= 315,000
+ Atualizado 001estoque0321, produto= 436, cod= 38981
+01/04/2021 - 22:12:00= Registro atualizado: valor calculado= 312,000, valor encontrado= 314,000
+ Atualizado 001estoque0321, produto= 436, cod= 39156
+01/04/2021 - 22:12:00= Registro atualizado: valor calculado= 311,000, valor encontrado= 313,000
+ Atualizado 001estoque0321, produto= 436, cod= 39157
+01/04/2021 - 22:12:00= Registro atualizado: valor calculado= 309,000, valor encontrado= 311,000
+ Atualizado 001estoque0321, produto= 436, cod= 39289
+01/04/2021 - 22:12:00= Registro atualizado: valor calculado= 308,000, valor encontrado= 310,000
+ Atualizado 001estoque0321, produto= 436, cod= 39431
+01/04/2021 - 22:12:00= Registro atualizado: valor calculado= 307,000, valor encontrado= 309,000
+ Atualizado 001estoque0321, produto= 436, cod= 39432
+01/04/2021 - 22:12:00= Registro atualizado: valor calculado= 306,000, valor encontrado= 308,000
+ Atualizado 001estoque0321, produto= 436, cod= 39438
+01/04/2021 - 22:12:00= Registro atualizado: valor calculado= 305,000, valor encontrado= 307,000
+ Atualizado 001estoque0321, produto= 436, cod= 40000
+01/04/2021 - 22:12:00= Registro atualizado: valor calculado= 304,000, valor encontrado= 306,000
+ Atualizado 001estoque0321, produto= 436, cod= 40127
+01/04/2021 - 22:12:00= Registro atualizado: valor calculado= 303,000, valor encontrado= 305,000
+ Atualizado 001estoque0321, produto= 436, cod= 40153
+01/04/2021 - 22:12:00= Registro atualizado: valor calculado= 302,000, valor encontrado= 304,000
+ Atualizado 001estoque0321, produto= 436, cod= 40340
+01/04/2021 - 22:12:00= Registro atualizado: valor calculado= 301,000, valor encontrado= 303,000
+ Atualizado 001estoque0321, produto= 436, cod= 40364
+01/04/2021 - 22:12:00= Registro atualizado: valor calculado= 300,000, valor encontrado= 302,000
+ Atualizado 001estoque0321, produto= 436, cod= 40369
+01/04/2021 - 22:12:00= Registro atualizado: valor calculado= 299,000, valor encontrado= 301,000
+ Atualizado 001estoque0321, produto= 436, cod= 40370
+01/04/2021 - 22:12:00= Registro atualizado: valor calculado= 298,000, valor encontrado= 300,000
+ Atualizado 001estoque0321, produto= 436, cod= 40398
+01/04/2021 - 22:12:00= Registro atualizado: valor calculado= 297,000, valor encontrado= 299,000
+ Atualizado 001estoque0321, produto= 436, cod= 40402
+01/04/2021 - 22:12:00= Registro atualizado: valor calculado= 296,000, valor encontrado= 298,000
+ Atualizado 001estoque0321, produto= 436, cod= 40415
+01/04/2021 - 22:12:00= Registro atualizado: valor calculado= 295,000, valor encontrado= 297,000
+ Atualizado 001estoque0321, produto= 436, cod= 40416
+01/04/2021 - 22:12:00= Registro atualizado: valor calculado= 294,000, valor encontrado= 296,000
+ Atualizado 001estoque0321, produto= 436, cod= 40417
+01/04/2021 - 22:12:00= Registro atualizado: valor calculado= 293,000, valor encontrado= 295,000
+ Atualizado 001estoque0321, produto= 436, cod= 40420
+01/04/2021 - 22:12:00= Registro atualizado: valor calculado= 292,000, valor encontrado= 294,000
+ Atualizado 001estoque0321, produto= 436, cod= 40421
+01/04/2021 - 22:12:00= Registro atualizado: valor calculado= 291,000, valor encontrado= 293,000
+ Atualizado 001estoque0321, produto= 436, cod= 40524
+01/04/2021 - 22:12:00= Registro atualizado: valor calculado= 290,000, valor encontrado= 292,000
+ Atualizado 001estoque0321, produto= 436, cod= 40596
+01/04/2021 - 22:12:00= Registro atualizado: valor calculado= 289,000, valor encontrado= 291,000
+ Atualizado 001estoque0321, produto= 436, cod= 40682
+01/04/2021 - 22:12:01= Registro atualizado: valor calculado= 288,000, valor encontrado= 290,000
+ Atualizado 001estoque0321, produto= 436, cod= 40823
+01/04/2021 - 22:12:01= Registro atualizado: valor calculado= 287,000, valor encontrado= 289,000
+ Atualizado 001estoque0321, produto= 436, cod= 40834
+01/04/2021 - 22:12:01= Registro atualizado: valor calculado= 286,000, valor encontrado= 288,000
+ Atualizado 001estoque0321, produto= 436, cod= 41273
+01/04/2021 - 22:12:01= Registro atualizado: valor calculado= 285,000, valor encontrado= 287,000
+ Atualizado 001estoque0321, produto= 436, cod= 41274
+01/04/2021 - 22:12:01= Registro atualizado: valor calculado= 284,000, valor encontrado= 286,000
+ Atualizado 001estoque0321, produto= 436, cod= 43619
+01/04/2021 - 22:12:01= Registro atualizado: valor calculado= 283,000, valor encontrado= 285,000
+ Atualizado 001estoque0321, produto= 436, cod= 43621
+01/04/2021 - 22:12:01= Registro atualizado: valor calculado= 282,000, valor encontrado= 284,000
+ Atualizado 001estoque0321, produto= 436, cod= 43622
+01/04/2021 - 22:12:01= Registro atualizado: valor calculado= 281,000, valor encontrado= 283,000
+ Atualizado 001estoque0321, produto= 436, cod= 43623
+01/04/2021 - 22:12:01= Registro atualizado: valor calculado= 280,000, valor encontrado= 282,000
+ Atualizado 001estoque0321, produto= 436, cod= 43624
+01/04/2021 - 22:12:01= Registro atualizado: valor calculado= 279,000, valor encontrado= 281,000
+ Atualizado 001estoque0321, produto= 436, cod= 43625
+01/04/2021 - 22:12:01= Registro atualizado: valor calculado= 278,000, valor encontrado= 280,000
+ Atualizado 001estoque0321, produto= 436, cod= 43626
+01/04/2021 - 22:12:01= Registro atualizado: valor calculado= 277,000, valor encontrado= 279,000
+ Atualizado 001estoque0321, produto= 436, cod= 43627
+01/04/2021 - 22:12:01= Registro atualizado: valor calculado= 276,000, valor encontrado= 278,000
+ Atualizado 001estoque0321, produto= 436, cod= 43909
+01/04/2021 - 22:12:01= Registro atualizado: valor calculado= 275,000, valor encontrado= 277,000
+ Atualizado 001estoque0321, produto= 436, cod= 45008
+01/04/2021 - 22:12:01= Registro atualizado: valor calculado= 274,000, valor encontrado= 276,000
+ Atualizado 001estoque0321, produto= 436, cod= 45009
+01/04/2021 - 22:12:01= Registro atualizado: valor calculado= 273,000, valor encontrado= 275,000
+ Atualizado 001estoque0321, produto= 436, cod= 45010
+01/04/2021 - 22:12:01= Registro atualizado: valor calculado= 272,000, valor encontrado= 274,000
+ Atualizado 001estoque0321, produto= 436, cod= 45012
+01/04/2021 - 22:12:01= Registro atualizado: valor calculado= 271,000, valor encontrado= 273,000
+ Atualizado 001estoque0321, produto= 436, cod= 46500
+01/04/2021 - 22:12:01= Registro atualizado: valor calculado= 270,000, valor encontrado= 272,000
+ Atualizado 001estoque0321, produto= 436, cod= 46501
+01/04/2021 - 22:12:01= Registro atualizado: valor calculado= 269,000, valor encontrado= 271,000
+ Atualizado 001estoque0321, produto= 436, cod= 46645
+01/04/2021 - 22:12:01= Registro atualizado: valor calculado= 268,000, valor encontrado= 270,000
+ Atualizado 001estoque0321, produto= 436, cod= 46646
+01/04/2021 - 22:12:01= Registro atualizado: valor calculado= 267,000, valor encontrado= 269,000
+ Atualizado 001estoque0321, produto= 436, cod= 47453
+01/04/2021 - 22:12:01= Registro atualizado: valor calculado= 266,000, valor encontrado= 268,000
+ Atualizado 001estoque0321, produto= 436, cod= 47454
+01/04/2021 - 22:12:01= Registro atualizado: valor calculado= 265,000, valor encontrado= 267,000
+ Atualizado 001estoque0321, produto= 436, cod= 47593
+01/04/2021 - 22:12:01= Registro atualizado: valor calculado= 264,000, valor encontrado= 266,000
+ Atualizado 001estoque0321, produto= 436, cod= 47769
+01/04/2021 - 22:12:01= Registro atualizado: valor calculado= 263,000, valor encontrado= 265,000
+ Atualizado 001estoque0321, produto= 436, cod= 47773
+01/04/2021 - 22:12:01= Registro atualizado: valor calculado= 260,000, valor encontrado= 262,000
+ Atualizado 001estoque0321, produto= 436, cod= 48553
+01/04/2021 - 22:12:01= Registro atualizado: valor calculado= 259,000, valor encontrado= 261,000
+ Atualizado 001estoque0321, produto= 436, cod= 48613
+01/04/2021 - 22:12:01= Registro atualizado: valor calculado= 258,000, valor encontrado= 260,000
+ Atualizado 001estoque0321, produto= 436, cod= 48614
+01/04/2021 - 22:12:02= Registro atualizado: valor calculado= 257,000, valor encontrado= 259,000
+ Atualizado 001estoque0321, produto= 436, cod= 48615
+01/04/2021 - 22:12:02= Registro atualizado: valor calculado= 256,000, valor encontrado= 258,000
+ Atualizado 001estoque0321, produto= 436, cod= 49895
+01/04/2021 - 22:12:02= Registro atualizado: valor calculado= 255,000, valor encontrado= 257,000
+ Atualizado 001estoque0321, produto= 436, cod= 50006
+01/04/2021 - 22:12:02= Registro atualizado: valor calculado= 254,000, valor encontrado= 256,000
+ Atualizado 001estoque0321, produto= 436, cod= 50007
+01/04/2021 - 22:12:02= Registro atualizado: valor calculado= 253,000, valor encontrado= 255,000
+ Atualizado 001estoque0321, produto= 436, cod= 50008
+01/04/2021 - 22:12:02= Registro atualizado: valor calculado= 252,000, valor encontrado= 254,000
+ Atualizado 001estoque0321, produto= 436, cod= 50009
+01/04/2021 - 22:12:02= Registro atualizado: valor calculado= 242,000, valor encontrado= 244,000
+ Atualizado 001estoque0321, produto= 436, cod= 50225
+01/04/2021 - 22:12:02= Registro atualizado: valor calculado= 241,000, valor encontrado= 243,000
+ Atualizado 001estoque0321, produto= 436, cod= 50345
+01/04/2021 - 22:12:02= Registro atualizado: valor calculado= 240,000, valor encontrado= 242,000
+ Atualizado 001estoque0321, produto= 436, cod= 50470
+01/04/2021 - 22:12:02= Registro atualizado: valor calculado= 239,000, valor encontrado= 241,000
+ Atualizado 001estoque0321, produto= 436, cod= 50809
+01/04/2021 - 22:12:02= Registro atualizado: valor calculado= 238,000, valor encontrado= 240,000
+ Atualizado 001estoque0321, produto= 436, cod= 50983
+01/04/2021 - 22:12:02= Registro atualizado: valor calculado= 237,000, valor encontrado= 239,000
+ Atualizado 001estoque0321, produto= 436, cod= 51006
+01/04/2021 - 22:12:02= Registro atualizado: valor calculado= 236,000, valor encontrado= 238,000
+ Atualizado 001estoque0321, produto= 436, cod= 51409
+01/04/2021 - 22:12:02= Registro atualizado: valor calculado= 235,000, valor encontrado= 237,000
+ Atualizado 001estoque0321, produto= 436, cod= 51410
+01/04/2021 - 22:12:02= Registro atualizado: valor calculado= 234,000, valor encontrado= 236,000
+ Atualizado 001estoque0321, produto= 436, cod= 51411
+01/04/2021 - 22:12:02= Registro atualizado: valor calculado= 233,000, valor encontrado= 235,000
+ Atualizado 001estoque0321, produto= 436, cod= 52500
+01/04/2021 - 22:12:02= Registro atualizado: valor calculado= 232,000, valor encontrado= 234,000
+ Atualizado 001estoque0321, produto= 436, cod= 53079
+01/04/2021 - 22:12:02= Registro atualizado: valor calculado= 231,000, valor encontrado= 233,000
+ Atualizado 001estoque0321, produto= 436, cod= 53084
+01/04/2021 - 22:12:02= Registro atualizado: valor calculado= 230,000, valor encontrado= 232,000
+ Atualizado 001estoque0321, produto= 436, cod= 53085
+01/04/2021 - 22:12:02= Registro atualizado: valor calculado= 229,000, valor encontrado= 231,000
+ Atualizado 001estoque0321, produto= 436, cod= 53086
+01/04/2021 - 22:12:02= Registro atualizado: valor calculado= 228,000, valor encontrado= 230,000
+ Atualizado 001estoque0321, produto= 436, cod= 53087
+01/04/2021 - 22:12:02= Registro atualizado: valor calculado= 227,000, valor encontrado= 229,000
+ Atualizado 001estoque0321, produto= 436, cod= 53497
+01/04/2021 - 22:12:02= Registro atualizado: valor calculado= 226,000, valor encontrado= 228,000
+ Atualizado 001estoque0321, produto= 436, cod= 54261
+01/04/2021 - 22:12:02= Registro atualizado: valor calculado= 225,000, valor encontrado= 227,000
+ Atualizado 001estoque0321, produto= 436, cod= 54466
+01/04/2021 - 22:12:02= Registro atualizado: valor calculado= 245,000, valor encontrado= 247,000
+ Atualizado 001estoque0321, produto= 436, cod= 54761
+01/04/2021 - 22:12:02= Registro atualizado: valor calculado= 244,000, valor encontrado= 246,000
+ Atualizado 001estoque0321, produto= 436, cod= 54763
+01/04/2021 - 22:12:02= Registro atualizado: valor calculado= 243,000, valor encontrado= 245,000
+ Atualizado 001estoque0321, produto= 436, cod= 54795
+01/04/2021 - 22:12:02= Registro atualizado: valor calculado= 223,000, valor encontrado= 225,000
+ Atualizado 001estoque0321, produto= 436, cod= 55264
+01/04/2021 - 22:12:02= Registro atualizado: valor calculado= 222,000, valor encontrado= 224,000
+ Atualizado 001estoque0321, produto= 436, cod= 55365
+01/04/2021 - 22:12:03= Registro atualizado: valor calculado= 221,000, valor encontrado= 223,000
+ Atualizado 001estoque0321, produto= 436, cod= 55397
+01/04/2021 - 22:12:03= Registro atualizado: valor calculado= 220,000, valor encontrado= 222,000
+ Atualizado 001estoque0321, produto= 436, cod= 55398
+01/04/2021 - 22:12:03= Registro atualizado: valor calculado= 219,000, valor encontrado= 221,000
+ Atualizado 001estoque0321, produto= 436, cod= 55399
+01/04/2021 - 22:12:03= Registro atualizado: valor calculado= 218,000, valor encontrado= 220,000
+ Atualizado 001estoque0321, produto= 436, cod= 55400
+01/04/2021 - 22:12:03= Registro atualizado: valor calculado= 217,000, valor encontrado= 219,000
+ Atualizado 001estoque0321, produto= 436, cod= 55401
+01/04/2021 - 22:12:03= Registro atualizado: valor calculado= 216,000, valor encontrado= 218,000
+ Atualizado 001estoque0321, produto= 436, cod= 55875
+01/04/2021 - 22:12:06= Estoque atualizado do produto: 436 atualizado para 216,000
+01/04/2021 - 22:12:06= Processamento finalizado.
+Registros atualizados= 129
+01/04/2021 - 22:14:51= --------------------
+Processamento iniciado
+01/04/2021 - 22:14:51= Reprocessando a partir de 01/03/2021
+
+01/04/2021 - 22:14:56= Processamento finalizado.
+Registros atualizados= 0
+01/04/2021 - 22:15:15= --------------------
+Processamento iniciado
+01/04/2021 - 22:15:15= Reprocessando a partir de 01/02/2021
+
+01/04/2021 - 22:15:16= Registro atualizado: valor calculado= 52,000, valor encontrado= 234,000
+ Atualizado 001estoque0221, produto= 436, cod= 963
+01/04/2021 - 22:15:16= Registro atualizado: valor calculado= 44,000, valor encontrado= 28,000
+ Atualizado 001estoque0221, produto= 436, cod= 4682
+01/04/2021 - 22:15:17= Registro atualizado: valor calculado= 160,000, valor encontrado= 165,000
+ Atualizado 001estoque0221, produto= 436, cod= 21849
+01/04/2021 - 22:15:18= Registro atualizado: valor calculado= 159,000, valor encontrado= 164,000
+ Atualizado 001estoque0221, produto= 436, cod= 22561
+01/04/2021 - 22:15:18= Registro atualizado: valor calculado= 158,000, valor encontrado= 163,000
+ Atualizado 001estoque0221, produto= 436, cod= 23761
+01/04/2021 - 22:15:18= Registro atualizado: valor calculado= 157,000, valor encontrado= 162,000
+ Atualizado 001estoque0221, produto= 436, cod= 23762
+01/04/2021 - 22:15:18= Registro atualizado: valor calculado= 152,000, valor encontrado= 157,000
+ Atualizado 001estoque0221, produto= 436, cod= 25138
+01/04/2021 - 22:15:18= Registro atualizado: valor calculado= 151,000, valor encontrado= 156,000
+ Atualizado 001estoque0221, produto= 436, cod= 42312
+01/04/2021 - 22:15:18= Registro atualizado: valor calculado= 150,000, valor encontrado= 155,000
+ Atualizado 001estoque0221, produto= 436, cod= 42814
+01/04/2021 - 22:15:18= Registro atualizado: valor calculado= 3,000, valor encontrado= 276,000
+ Atualizado 001estoque0221, produto= 436, cod= 43913
+01/04/2021 - 22:15:18= Registro atualizado: valor calculado= 2,000, valor encontrado= 275,000
+ Atualizado 001estoque0221, produto= 436, cod= 43916
+01/04/2021 - 22:15:18= Registro atualizado: valor calculado= 1,000, valor encontrado= 274,000
+ Atualizado 001estoque0221, produto= 436, cod= 43919
+01/04/2021 - 22:15:18= Registro atualizado: valor calculado= 0,000, valor encontrado= 273,000
+ Atualizado 001estoque0221, produto= 436, cod= 43920
+01/04/2021 - 22:15:18= Registro atualizado: valor calculado= -1,000, valor encontrado= 272,000
+ Atualizado 001estoque0221, produto= 436, cod= 43922
+01/04/2021 - 22:15:18= Registro atualizado: valor calculado= -2,000, valor encontrado= 271,000
+ Atualizado 001estoque0221, produto= 436, cod= 44384
+01/04/2021 - 22:15:18= Registro atualizado: valor calculado= -3,000, valor encontrado= 270,000
+ Atualizado 001estoque0221, produto= 436, cod= 44385
+01/04/2021 - 22:15:18= Registro atualizado: valor calculado= -4,000, valor encontrado= 269,000
+ Atualizado 001estoque0221, produto= 436, cod= 45855
+01/04/2021 - 22:15:18= Registro atualizado: valor calculado= -5,000, valor encontrado= 268,000
+ Atualizado 001estoque0221, produto= 436, cod= 45856
+01/04/2021 - 22:15:18= Registro atualizado: valor calculado= -6,000, valor encontrado= 267,000
+ Atualizado 001estoque0221, produto= 436, cod= 45857
+01/04/2021 - 22:15:18= Registro atualizado: valor calculado= -7,000, valor encontrado= 266,000
+ Atualizado 001estoque0221, produto= 436, cod= 45862
+01/04/2021 - 22:15:18= Registro atualizado: valor calculado= -8,000, valor encontrado= 265,000
+ Atualizado 001estoque0221, produto= 436, cod= 46266
+01/04/2021 - 22:15:18= Registro atualizado: valor calculado= -9,000, valor encontrado= 264,000
+ Atualizado 001estoque0221, produto= 436, cod= 46267
+01/04/2021 - 22:15:18= Registro atualizado: valor calculado= -10,000, valor encontrado= 263,000
+ Atualizado 001estoque0221, produto= 436, cod= 46269
+01/04/2021 - 22:15:18= Registro atualizado: valor calculado= -11,000, valor encontrado= 262,000
+ Atualizado 001estoque0221, produto= 436, cod= 46344
+01/04/2021 - 22:15:18= Registro atualizado: valor calculado= -12,000, valor encontrado= 261,000
+ Atualizado 001estoque0221, produto= 436, cod= 46349
+01/04/2021 - 22:15:18= Registro atualizado: valor calculado= -13,000, valor encontrado= 260,000
+ Atualizado 001estoque0221, produto= 436, cod= 46351
+01/04/2021 - 22:15:18= Registro atualizado: valor calculado= -14,000, valor encontrado= 259,000
+ Atualizado 001estoque0221, produto= 436, cod= 46355
+01/04/2021 - 22:15:18= Registro atualizado: valor calculado= -15,000, valor encontrado= 258,000
+ Atualizado 001estoque0221, produto= 436, cod= 46406
+01/04/2021 - 22:15:18= Registro atualizado: valor calculado= -16,000, valor encontrado= 257,000
+ Atualizado 001estoque0221, produto= 436, cod= 46410
+01/04/2021 - 22:15:18= Registro atualizado: valor calculado= -17,000, valor encontrado= 256,000
+ Atualizado 001estoque0221, produto= 436, cod= 47176
+01/04/2021 - 22:15:19= Registro atualizado: valor calculado= -18,000, valor encontrado= 255,000
+ Atualizado 001estoque0221, produto= 436, cod= 47177
+01/04/2021 - 22:15:19= Registro atualizado: valor calculado= -19,000, valor encontrado= 254,000
+ Atualizado 001estoque0221, produto= 436, cod= 47267
+01/04/2021 - 22:15:19= Registro atualizado: valor calculado= -20,000, valor encontrado= 253,000
+ Atualizado 001estoque0221, produto= 436, cod= 47315
+01/04/2021 - 22:15:19= Registro atualizado: valor calculado= -21,000, valor encontrado= 252,000
+ Atualizado 001estoque0221, produto= 436, cod= 47318
+01/04/2021 - 22:15:19= Registro atualizado: valor calculado= -22,000, valor encontrado= 251,000
+ Atualizado 001estoque0221, produto= 436, cod= 47367
+01/04/2021 - 22:15:19= Registro atualizado: valor calculado= -23,000, valor encontrado= 250,000
+ Atualizado 001estoque0221, produto= 436, cod= 47849
+01/04/2021 - 22:15:19= Registro atualizado: valor calculado= -24,000, valor encontrado= 249,000
+ Atualizado 001estoque0221, produto= 436, cod= 48383
+01/04/2021 - 22:15:19= Registro atualizado: valor calculado= -25,000, valor encontrado= 248,000
+ Atualizado 001estoque0221, produto= 436, cod= 49003
+01/04/2021 - 22:15:19= Registro atualizado: valor calculado= -26,000, valor encontrado= 247,000
+ Atualizado 001estoque0221, produto= 436, cod= 49206
+01/04/2021 - 22:15:19= Registro atualizado: valor calculado= -27,000, valor encontrado= 246,000
+ Atualizado 001estoque0221, produto= 436, cod= 49301
+01/04/2021 - 22:15:19= Registro atualizado: valor calculado= -28,000, valor encontrado= 245,000
+ Atualizado 001estoque0221, produto= 436, cod= 49304
+01/04/2021 - 22:15:19= Registro atualizado: valor calculado= -29,000, valor encontrado= 244,000
+ Atualizado 001estoque0221, produto= 436, cod= 49883
+01/04/2021 - 22:15:19= Registro atualizado: valor calculado= -30,000, valor encontrado= 243,000
+ Atualizado 001estoque0221, produto= 436, cod= 50126
+01/04/2021 - 22:15:19= Registro atualizado: valor calculado= -31,000, valor encontrado= 242,000
+ Atualizado 001estoque0221, produto= 436, cod= 50283
+01/04/2021 - 22:15:19= Registro atualizado: valor calculado= -32,000, valor encontrado= 241,000
+ Atualizado 001estoque0221, produto= 436, cod= 51579
+01/04/2021 - 22:15:19= Registro atualizado: valor calculado= -33,000, valor encontrado= 240,000
+ Atualizado 001estoque0221, produto= 436, cod= 51976
+01/04/2021 - 22:15:19= Registro atualizado: valor calculado= -34,000, valor encontrado= 239,000
+ Atualizado 001estoque0221, produto= 436, cod= 52377
+01/04/2021 - 22:15:19= Registro atualizado: valor calculado= -35,000, valor encontrado= 238,000
+ Atualizado 001estoque0221, produto= 436, cod= 52827
+01/04/2021 - 22:15:19= Registro atualizado: valor calculado= -36,000, valor encontrado= 237,000
+ Atualizado 001estoque0221, produto= 436, cod= 52918
+01/04/2021 - 22:15:19= Registro atualizado: valor calculado= -37,000, valor encontrado= 236,000
+ Atualizado 001estoque0221, produto= 436, cod= 53156
+01/04/2021 - 22:15:19= Registro atualizado: valor calculado= -38,000, valor encontrado= 235,000
+ Atualizado 001estoque0221, produto= 436, cod= 53375
+01/04/2021 - 22:15:19= Registro atualizado: valor calculado= -39,000, valor encontrado= 234,000
+ Atualizado 001estoque0221, produto= 436, cod= 53377
+01/04/2021 - 22:15:19= Registro atualizado: valor calculado= -40,000, valor encontrado= 233,000
+ Atualizado 001estoque0221, produto= 436, cod= 53537
+01/04/2021 - 22:15:19= Registro atualizado: valor calculado= -41,000, valor encontrado= 232,000
+ Atualizado 001estoque0221, produto= 436, cod= 53538
+01/04/2021 - 22:15:23= Estoque atualizado do produto: 436 atualizado para -41,000
+01/04/2021 - 22:15:23= Processamento finalizado.
+Registros atualizados= 54
+01/04/2021 - 22:18:11= --------------------
+Processamento iniciado
+01/04/2021 - 22:18:11= Reprocessando a partir de 01/02/2021
+
+01/04/2021 - 22:18:12= Registro atualizado: valor calculado= 235,000, valor encontrado= 290,000
+ Atualizado 001estoque0221, produto= 436, cod= 6090
+01/04/2021 - 22:18:13= Registro atualizado: valor calculado= 279,000, valor encontrado= 158,000
+ Atualizado 001estoque0221, produto= 436, cod= 23761
+01/04/2021 - 22:18:13= Registro atualizado: valor calculado= 278,000, valor encontrado= 157,000
+ Atualizado 001estoque0221, produto= 436, cod= 23762
+01/04/2021 - 22:18:13= Registro atualizado: valor calculado= 273,000, valor encontrado= 152,000
+ Atualizado 001estoque0221, produto= 436, cod= 25138
+01/04/2021 - 22:18:13= Registro atualizado: valor calculado= 272,000, valor encontrado= 151,000
+ Atualizado 001estoque0221, produto= 436, cod= 42312
+01/04/2021 - 22:18:13= Registro atualizado: valor calculado= 271,000, valor encontrado= 150,000
+ Atualizado 001estoque0221, produto= 436, cod= 42814
+01/04/2021 - 22:18:17= Estoque atualizado do produto: 436 atualizado para -41,000
+01/04/2021 - 22:18:17= Processamento finalizado.
+Registros atualizados= 6
+01/04/2021 - 22:18:47= --------------------
+Processamento iniciado
+01/04/2021 - 22:18:47= Reprocessando a partir de 01/02/2021
+
+01/04/2021 - 22:18:53= Processamento finalizado.
+Registros atualizados= 0

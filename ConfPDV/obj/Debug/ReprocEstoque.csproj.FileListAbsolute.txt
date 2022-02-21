@@ -1,0 +1,43 @@
+C:\Projects\MovstoqueCalculator\ConfPDV\ConfPDV\bin\Debug\MySql.Data.dll
+C:\Projects\MovstoqueCalculator\ConfPDV\ConfPDV\bin\Debug\Google.Protobuf.dll
+C:\Projects\MovstoqueCalculator\ConfPDV\ConfPDV\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Projects\MovstoqueCalculator\ConfPDV\ConfPDV\bin\Debug\BouncyCastle.Crypto.dll
+C:\Projects\MovstoqueCalculator\ConfPDV\ConfPDV\bin\Debug\System.Memory.dll
+C:\Projects\MovstoqueCalculator\ConfPDV\ConfPDV\bin\Debug\System.Buffers.dll
+C:\Projects\MovstoqueCalculator\ConfPDV\ConfPDV\bin\Debug\K4os.Compression.LZ4.dll
+C:\Projects\MovstoqueCalculator\ConfPDV\ConfPDV\bin\Debug\K4os.Hash.xxHash.dll
+C:\Projects\MovstoqueCalculator\ConfPDV\ConfPDV\bin\Debug\System.Numerics.Vectors.dll
+C:\Projects\MovstoqueCalculator\ConfPDV\ConfPDV\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projects\MovstoqueCalculator\ConfPDV\ConfPDV\obj\Debug\ConfPDV.Form1.resources
+C:\Projects\MovstoqueCalculator\ConfPDV\ConfPDV\obj\Debug\ConfPDV.Form2.resources
+C:\Projects\MovstoqueCalculator\ConfPDV\ConfPDV\obj\Debug\ConfPDV.Form3.resources
+C:\Projects\MovstoqueCalculator\ConfPDV\ConfPDV\obj\Debug\ConfPDV.Form4.resources
+C:\Projects\MovstoqueCalculator\ConfPDV\ConfPDV\obj\Debug\ReprocEstoque.csproj.GenerateResource.cache
+C:\Projects\MovstoqueCalculator\ConfPDV\ConfPDV\obj\Debug\ReprocEstoque.csproj.CoreCompileInputs.cache
+C:\Projects\MovstoqueCalculator\ConfPDV\ConfPDV\obj\Debug\ReprocEstoque.csproj.CopyComplete
+C:\Projects\MovstoqueCalculator\ConfPDV\ConfPDV\bin\Debug\EntityFramework.dll
+C:\Projects\MovstoqueCalculator\ConfPDV\ConfPDV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\MovstoqueCalculator\ConfPDV\ConfPDV\bin\Debug\System.Data.SQLite.dll
+C:\Projects\MovstoqueCalculator\ConfPDV\ConfPDV\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Projects\MovstoqueCalculator\ConfPDV\ConfPDV\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Projects\MovstoqueCalculator\ConfPDV\ConfPDV\bin\Debug\EntityFramework.xml
+C:\Projects\MovstoqueCalculator\ConfPDV\ConfPDV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\MovstoqueCalculator\ConfPDV\ConfPDV\bin\Debug\System.Data.SQLite.xml
+C:\Projects\MovstoqueCalculator\ConfPDV\ConfPDV\bin\Debug\System.Buffers.xml
+C:\Projects\MovstoqueCalculator\ConfPDV\ConfPDV\bin\Debug\System.Memory.xml
+C:\Projects\MovstoqueCalculator\ConfPDV\ConfPDV\bin\Debug\System.Numerics.Vectors.xml
+C:\Projects\MovstoqueCalculator\ConfPDV\ConfPDV\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Projects\MovstoqueCalculator\ConfPDV\ConfPDV\bin\Debug\Linear Processamentos.exe.config
+C:\Projects\MovstoqueCalculator\ConfPDV\ConfPDV\bin\Debug\Linear Processamentos.exe
+C:\Projects\MovstoqueCalculator\ConfPDV\ConfPDV\bin\Debug\Linear Processamentos.pdb
+C:\Projects\MovstoqueCalculator\ConfPDV\ConfPDV\obj\Debug\LinearProcessamentos.Properties.Resources.resources
+C:\Projects\MovstoqueCalculator\ConfPDV\ConfPDV\obj\Debug\Linear Processamentos.exe
+C:\Projects\MovstoqueCalculator\ConfPDV\ConfPDV\obj\Debug\Linear Processamentos.pdb
+C:\Projects\MovstoqueCalculator\ConfPDV\ConfPDV\obj\Debug\LinearProcessamentos.Start.resources
+C:\Projects\MovstoqueCalculator\ConfPDV\ConfPDV\obj\Debug\LinearProcessamentos.frmRefazerDiario.resources
+C:\Projects\MovstoqueCalculator\ConfPDV\ConfPDV\obj\Debug\ReprocEstoque.csproj.AssemblyReference.cache
+C:\Projects\MovstoqueCalculator\ConfPDV\ConfPDV\bin\Debug\Google.Protobuf.pdb
+C:\Projects\MovstoqueCalculator\ConfPDV\ConfPDV\bin\Debug\Google.Protobuf.xml
+C:\Projects\MovstoqueCalculator\ConfPDV\ConfPDV\bin\Debug\K4os.Compression.LZ4.xml
+C:\Projects\MovstoqueCalculator\ConfPDV\ConfPDV\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Projects\MovstoqueCalculator\ConfPDV\ConfPDV\bin\Debug\K4os.Hash.xxHash.xml
