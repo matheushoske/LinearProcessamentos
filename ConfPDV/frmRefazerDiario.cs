@@ -170,7 +170,7 @@ namespace LinearProcessamentos
                             cmd.Parameters.AddWithValue("@empresa", selectedFilial);
                             cmd.Parameters.AddWithValue("@empresa2", selectedFilial);
                             cmd.Prepare();
-                            cmd.ExecuteScalar();
+                            lblProcessados.Text =(int.Parse(lblProcessados.Text) + cmd.ExecuteNonQuery()).ToString();
                             WriteLog("Reader encontrado, realizando insert:\n "+ cmd.CommandText);
                             connection.Close();
                             
@@ -190,7 +190,7 @@ namespace LinearProcessamentos
                             cmd.Parameters.AddWithValue("@codprod", codprod);
                             cmd.Parameters.AddWithValue("@empresa", selectedFilial);
                             cmd.Prepare();
-                            cmd.ExecuteScalar();
+                            lblProcessados.Text = (int.Parse(lblProcessados.Text) + cmd.ExecuteNonQuery()).ToString();
                             WriteLog("Reader não encontrado, realizando insert");
                             connection.Close();
 

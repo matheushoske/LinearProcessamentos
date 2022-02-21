@@ -46,6 +46,8 @@ namespace LinearProcessamentos
             this.txtProdutoInicio = new System.Windows.Forms.TextBox();
             this.lblProgress = new System.Windows.Forms.Label();
             this.pgbProgress = new System.Windows.Forms.ProgressBar();
+            this.lblProcessados = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label4
@@ -198,11 +200,31 @@ namespace LinearProcessamentos
             this.pgbProgress.Size = new System.Drawing.Size(228, 23);
             this.pgbProgress.TabIndex = 43;
             // 
-            // Form5
+            // lblProcessados
+            // 
+            this.lblProcessados.AutoSize = true;
+            this.lblProcessados.Location = new System.Drawing.Point(7, 279);
+            this.lblProcessados.Name = "lblProcessados";
+            this.lblProcessados.Size = new System.Drawing.Size(13, 13);
+            this.lblProcessados.TabIndex = 44;
+            this.lblProcessados.Text = "0";
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(47, 279);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(49, 13);
+            this.label6.TabIndex = 45;
+            this.label6.Text = "Inseridos";
+            // 
+            // frmRefazerDiario
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(471, 299);
+            this.Controls.Add(this.label6);
+            this.Controls.Add(this.lblProcessados);
             this.Controls.Add(this.pgbProgress);
             this.Controls.Add(this.lblProgress);
             this.Controls.Add(this.txtProdutoInicio);
@@ -221,7 +243,7 @@ namespace LinearProcessamentos
             this.Controls.Add(this.cbxFilial);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Name = "Form5";
+            this.Name = "frmRefazerDiario";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Refazer Diário";
             this.ResumeLayout(false);
@@ -247,5 +269,7 @@ namespace LinearProcessamentos
         private System.Windows.Forms.TextBox txtProdutoInicio;
         private System.Windows.Forms.Label lblProgress;
         private System.Windows.Forms.ProgressBar pgbProgress;
+        private System.Windows.Forms.Label lblProcessados;
+        private System.Windows.Forms.Label label6;
     }
 }
